@@ -4,6 +4,4 @@ Sumário
 ---------------------------
 -controle de versões;
 
--git;
-
--github;
+-git e github;
